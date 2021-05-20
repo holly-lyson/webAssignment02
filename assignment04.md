@@ -22,3 +22,9 @@
 > **TensorFlow**
 > ---
 > - Also open-sourced, but used and has the tools available for AI and machine learning apps. 
+> - https://www.octalsoftware.com/blog/best-web-development-stacks 
+> - Listed for reference of where I got TensorFlow as a tech stack. I didn't think it was either, but found it interesting that it was on the list.
+
+> **Django**
+> ---
+> - Uses a high-level Python web framework making it object-oriented and uses JavaScript, Python, Django and MySQL.
